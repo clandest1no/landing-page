@@ -1,0 +1,1 @@
+This project is an exercise to summarise what I have learned so far. Using HTML and CSS (with flexbox), I will create this layout from zero.
